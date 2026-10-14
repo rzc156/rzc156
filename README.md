@@ -1,8 +1,8 @@
 <!-- ════════════════════════════════════════════════════════════════════════
      rzc156 · GitHub Profile README
      theme : terminal / dark-green geek
-     deps  : 自托管 SVG (jsDelivr) + shields.io + demolab + komarev
-             ※ 不使用任何 *.vercel.app（国内常被墙）
+     deps  : 自托管 SVG (jsDelivr) + shields.io + demolab
+             ※ 不使用任何 *.vercel.app / komarev（你的网络下不加载）
      ════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
