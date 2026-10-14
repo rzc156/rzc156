@@ -84,8 +84,8 @@ World Action Model  →  在潜空间里「想象」，再把想象变成监督�
 
 <img src="https://streak-stats.demolab.com?user=rzc156&hide_border=true&background=0d1117&stroke=30363d&ring=39d353&fire=e3b341&currStreakLabel=56d4dd&sideLabels=c9d1d9&dates=8b949e&currStreakNum=39d353&sideNums=c9d1d9" alt="streak"/>
 
-<!-- 自托管贪吃蛇：由 .github/workflows/snake.yml 生成到 output 分支 -->
-<img width="100%" src="https://cdn.jsdelivr.net/gh/rzc156/rzc156@output/github-snake-dark.svg" alt="snake"/>
+<!-- 自托管贪吃蛇：scripts/snake_svg.py 生成（每吃一个贡献格就长一节） -->
+<img width="100%" src="https://cdn.jsdelivr.net/gh/rzc156/rzc156@main/assets/snake.svg" alt="contribution snake"/>
 
 </div>
 
