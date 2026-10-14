@@ -1,11 +1,13 @@
 <!-- ════════════════════════════════════════════════════════════════════════
      rzc156 · GitHub Profile README
-     theme: terminal / dark-green geek
+     theme : terminal / dark-green geek
+     deps  : 自托管 SVG (jsDelivr) + shields.io + demolab + komarev
+             ※ 不使用任何 *.vercel.app（国内常被墙）
      ════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0d2818,100:39d353&height=190&section=header&text=rzc156&fontSize=72&fontColor=39d353&fontAlignY=36&desc=Embodied%20AI%20%C2%B7%20Robot%20Learning%20%C2%B7%20VLA&descAlignY=58&descSize=18&descColor=56d4dd&animation=fadeIn" alt="rzc156"/>
+<img width="100%" src="https://cdn.jsdelivr.net/gh/rzc156/rzc156@main/assets/header.svg" alt="rzc156 · Embodied AI · Robot Learning · VLA · WAM"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=700&color=39D353&center=true&vCenter=true&width=680&lines=whoami+%E2%86%92+Embodied+AI+%2F+Robot+Learning;WAM+%3A+World+Action+Model+%E2%80%94+imagine%2C+then+act;Focus%3A+VLA+%C2%B7+World+Models+%C2%B7+Test-time+Selection;PyTorch+%C2%B7+LeRobot+%C2%B7+LIBERO+%C2%B7+IsaacLab+%C2%B7+MuJoCo+%C2%B7+ROS2;Keep+the+experiment+falsifiable." alt="typing"/>
@@ -74,14 +76,15 @@ World Action Model  →  在潜空间里「想象」，再把想象变成监督�
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rzc156&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=39d353&icon_color=56d4dd&text_color=c9d1d9&rank_icon=github" alt="stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzc156&layout=compact&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9&langs_count=8" alt="langs"/>
+<!-- 自托管：由 .github/workflows/metrics.yml 生成并提交，经 jsDelivr 分发 -->
+<img width="100%" src="https://cdn.jsdelivr.net/gh/rzc156/rzc156@main/assets/metrics.base.svg" alt="metrics"/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rzc156&bg_color=0d1117&color=39d353&line=56d4dd&point=39d353&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="activity"/>
+<img width="100%" src="https://cdn.jsdelivr.net/gh/rzc156/rzc156@main/assets/metrics.isocalendar.svg" alt="contribution calendar"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=rzc156&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophy"/>
+<img src="https://streak-stats.demolab.com?user=rzc156&hide_border=true&background=0d1117&stroke=30363d&ring=39d353&fire=e3b341&currStreakLabel=56d4dd&sideLabels=c9d1d9&dates=8b949e&currStreakNum=39d353&sideNums=c9d1d9" alt="streak"/>
 
-<img width="100%" src="https://raw.githubusercontent.com/rzc156/rzc156/output/github-snake-dark.svg" alt="snake"/>
+<!-- 自托管贪吃蛇：由 .github/workflows/snake.yml 生成到 output 分支 -->
+<img width="100%" src="https://cdn.jsdelivr.net/gh/rzc156/rzc156@output/github-snake-dark.svg" alt="snake"/>
 
 </div>
 
