@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://cdn.jsdelivr.net/gh/rzc156/rzc156@main/assets/header.svg" alt="rzc156 · Embodied AI · Robot Learning · VLA · WAM"/>
+<img width="100%" src="https://cdn.jsdelivr.net/gh/rzc156/rzc156@main/assets/header.svg?v=20261014b" alt="rzc156 · Embodied AI · Robot Learning · VLA · WAM"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=700&color=39D353&center=true&vCenter=true&width=680&lines=whoami+%E2%86%92+Embodied+AI+%2F+Robot+Learning;WAM+%3A+World+Action+Model+%E2%80%94+imagine%2C+then+act;Focus%3A+VLA+%C2%B7+World+Models+%C2%B7+Test-time+Selection;PyTorch+%C2%B7+LeRobot+%C2%B7+LIBERO+%C2%B7+IsaacLab+%C2%B7+MuJoCo+%C2%B7+ROS2;Keep+the+experiment+falsifiable." alt="typing"/>
@@ -78,14 +78,14 @@ World Action Model  →  在潜空间里「想象」，再把想象变成监督�
 <div align="center">
 
 <!-- 自托管：由 .github/workflows/metrics.yml 生成并提交，经 jsDelivr 分发 -->
-<img width="100%" src="https://cdn.jsdelivr.net/gh/rzc156/rzc156@main/assets/metrics.base.svg" alt="metrics"/>
+<img width="100%" src="https://cdn.jsdelivr.net/gh/rzc156/rzc156@main/assets/metrics.base.svg?v=20261014b" alt="metrics"/>
 
-<img width="100%" src="https://cdn.jsdelivr.net/gh/rzc156/rzc156@main/assets/metrics.isocalendar.svg" alt="contribution calendar"/>
+<img width="100%" src="https://cdn.jsdelivr.net/gh/rzc156/rzc156@main/assets/metrics.isocalendar.svg?v=20261014b" alt="contribution calendar"/>
 
 <img src="https://streak-stats.demolab.com?user=rzc156&hide_border=true&background=0d1117&stroke=30363d&ring=39d353&fire=e3b341&currStreakLabel=56d4dd&sideLabels=c9d1d9&dates=8b949e&currStreakNum=39d353&sideNums=c9d1d9" alt="streak"/>
 
 <!-- 自托管贪吃蛇：scripts/snake_svg.py 生成（每吃一个贡献格就长一节） -->
-<img width="100%" src="https://cdn.jsdelivr.net/gh/rzc156/rzc156@main/assets/snake.svg" alt="contribution snake"/>
+<img width="100%" src="https://cdn.jsdelivr.net/gh/rzc156/rzc156@main/assets/snake.svg?v=20261014b" alt="contribution snake"/>
 
 </div>
 
