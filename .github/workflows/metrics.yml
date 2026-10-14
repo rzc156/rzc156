@@ -23,7 +23,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           filename: assets/metrics.base.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
           base: header
           config_timezone: Asia/Shanghai
           plugin_languages: yes
