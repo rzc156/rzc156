@@ -17,7 +17,8 @@
 
 [![Followers](https://img.shields.io/github/followers/rzc156?style=flat-square&logo=github&logoColor=39d353&labelColor=0d1117&color=39d353)](https://github.com/rzc156?tab=followers)
 [![Stars](https://img.shields.io/github/stars/rzc156?style=flat-square&logo=github&logoColor=e3b341&labelColor=0d1117&color=e3b341&label=Total%20Stars)](https://github.com/rzc156?tab=repositories)
-[![Profile Views](https://komarev.com/ghpvc/?username=rzc156&style=flat-square&color=39d353&label=VISITORS)](https://github.com/rzc156)
+
+<!-- Profile Views (komarev) 曾在此，但该服务在你的网络下不加载，已移除 -->
 
 </div>
 
