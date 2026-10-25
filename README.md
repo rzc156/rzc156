@@ -31,7 +31,7 @@ rzc156@github:~$ cat ~/profile.json
   "affiliation" : "USTC · 电子信息 (M.Sc.)",
   "focus"       : ["World Action Model (WAM)", "Vision-Language-Action", "World Models", "Test-time Selection", "Manipulation"],
   "stack"       : ["PyTorch", "LeRobot", "LIBERO", "IsaacLab", "MuJoCo", "ROS2", "C++20"],
-  "belief"      : "离线指标不代理决策质量 —— 先把指标对齐决策，再谈收益。",
+  "belief"      : "离线指标不代理决策质量。",
   "status"      : "open to Embodied-AI / Robot-Learning internships 🟢"
 }
 
