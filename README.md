@@ -94,6 +94,5 @@ World Action Model  →  在潜空间里「想象」，再把想象变成监督�
 <div align="center">
 
 
-<sub>⚡ built with a terminal, a green wall, and an unreasonable amount of paired replays</sub>
 
 </div>
