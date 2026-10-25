@@ -22,27 +22,7 @@
 
 </div>
 
-```console
-rzc156@github:~$ whoami
-<OuO>  ──  Embodied AI · Robot Learning researcher
 
-rzc156@github:~$ cat ~/profile.json
-{
-  "affiliation" : "USTC · 电子信息 (M.Sc.)",
-  "focus"       : ["World Action Model (WAM)", "Vision-Language-Action", "World Models", "Test-time Selection", "Manipulation"],
-  "stack"       : ["PyTorch", "LeRobot", "LIBERO", "IsaacLab", "MuJoCo", "ROS2", "C++20"],
-  "belief"      : "离线指标不代理决策质量。",
-  "status"      : "open to Embodied-AI / Robot-Learning internships 🟢"
-}
-
-rzc156@github:~$ ./run --now
-[ ok ] loading world model ......... done
-[ ok ] sampling candidate actions . done (K=8)
-[ .. ] selecting the non-obvious ... this is the hard part
-
-rzc156@github:~$ echo "$WAM"
-World Action Model  →  在潜空间里「想象」，再把想象变成监督信号。
-```
 
 <div align="center"><sub>↓ &nbsp;scroll&nbsp; ↓</sub></div>
 
