@@ -93,9 +93,6 @@ World Action Model  →  在潜空间里「想象」，再把想象变成监督�
 
 <div align="center">
 
-```text
-  " 有得选才值钱 —— Action Vacancy, 4% of decisions.  "
-```
 
 <sub>⚡ built with a terminal, a green wall, and an unreasonable amount of paired replays</sub>
 
